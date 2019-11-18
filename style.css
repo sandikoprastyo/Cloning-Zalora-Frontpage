@@ -300,3 +300,7 @@
    .brand h3 p {
        text-align: center;
    }
+   
+   .brand img:hover {
+       opacity: 0.5;
+   }
